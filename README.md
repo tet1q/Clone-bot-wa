@@ -140,11 +140,13 @@ npm i
 ```
 
 Finally, run the command below to start :
-```sh
+```
 # non pm2
+```sh
 npm start
-
+```
 # with pm2
+```sh
 npm run dev
 ```
 
