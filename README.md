@@ -140,7 +140,7 @@ npm i
 ```
 
 Finally, run the command below to start :
-```
+
 # non pm2
 ```sh
 npm start
