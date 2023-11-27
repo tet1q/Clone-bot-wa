@@ -59,7 +59,7 @@ export default {
       packName: `Sticker Created By Bot :`,
       packPublish: "Jayus",
       packEmail: "mi915999@gmail.com",
-      packWebsite: "https://dikaardnt.my.id",
+      packWebsite: "https://www.instagram.com/ryuu__poi/",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
       iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
       emojis: [],
