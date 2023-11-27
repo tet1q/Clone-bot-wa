@@ -128,7 +128,7 @@ node --version
 
 Cloning the Repository
 ```
-git clone https://github.com/Hisoka-Morrou/hisoka-baileys.git
+git clone https://github.com/Ryuu-Shin/Clone-bot-wa.git
 ```
 
 Go to the project directory and install all dependencies.</br>
@@ -148,7 +148,7 @@ npm run dev
 ```
 
 ## Login With Pairing Code
-or type your number in [`here`](https://github.com/Hisoka-Morrou/hisoka-baileys/blob/master/config.js#L50)
+or type your number in [`here`](https://github.com/Ryuu-Shin/Clone-bot-wa/blob/master/config.js#L50)
 ```sh
 node index.js --pairing-code
 ```
@@ -160,7 +160,7 @@ This code is in no way affiliated with WhatsApp. Use at your own discretion. Don
 This code was produced based on the baileys library and it is still under development.
 
 # Donate to the project.
-* [`PayPal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
+* [`PayPal`](https://paypal.me/ilyasilyus)
+* [`Saweria`](https://saweria.co/RyuuKun)
 
 </br>
