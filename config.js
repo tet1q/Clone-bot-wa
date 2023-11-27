@@ -35,7 +35,7 @@ export default {
    menu,
 
    // Set your URL and API key here
-   APIs: {vDGHrwjpmI
+   APIs: {
       xfarr: {
          baseURL: 'https://api.xfarr.com',
          Key: "buy on https://api.xfarr.com/pricing"
@@ -50,7 +50,7 @@ export default {
       owner: ["6285607025831"], // set owner number on here
       sessionName: "session", // for name session
       prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i,
-      pairingNumber: "" // Example Input : 62xxx
+      pairingNumber: "6283866837978" // Example Input : 62xxx
    },
 
    // Set pack name sticker on here
