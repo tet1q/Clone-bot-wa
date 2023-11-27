@@ -20,12 +20,12 @@ const menu = {
 }
 
 const limit = {
-   free: 15,
-   premium: 150,
+   free: "Infinity",
+   premium: "Infinity",
    VIP: "Infinity",
    download: {
-      free: 50000000, // use byte
-      premium: 350000000, // use byte
+      free: 1130000000, // use byte
+      premium: 1130000000, // use byte
       VIP: 1130000000, // use byte
    }
 }
@@ -35,7 +35,7 @@ export default {
    menu,
 
    // Set your URL and API key here
-   APIs: {
+   APIs: {vDGHrwjpmI
       xfarr: {
          baseURL: 'https://api.xfarr.com',
          Key: "buy on https://api.xfarr.com/pricing"
@@ -47,18 +47,18 @@ export default {
       public: true,
       antiCall: true, // reject call
       database: "database.json", // End .json when using JSON database or use Mongo URI
-      owner: ["6288292024190"], // set owner number on here
+      owner: ["6285607025831"], // set owner number on here
       sessionName: "session", // for name session
       prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i,
-      pairingNumber: "" // Example Input : 62xxx
+      pairingNumber: "6283866837978" // Example Input : 62xxx
    },
 
    // Set pack name sticker on here
    Exif: {
       packId: "https://dikaardnt.my.id",
-      packName: `Sticker Ini Dibuat Oleh :`,
-      packPublish: "Dika Ardnt.",
-      packEmail: "okeae2410@gmail.com",
+      packName: `Sticker Created By Bot :`,
+      packPublish: "Jayus",
+      packEmail: "mi915999@gmail.com",
       packWebsite: "https://dikaardnt.my.id",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
       iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
@@ -68,7 +68,7 @@ export default {
 
    // message  response awikwok there
    msg: {
-      owner: "Features can only be accessed owner!",
+      owner: "Cuma owner doang yak yg bisa akses!",
       group: "Features only accessible in group!",
       private: "Features only accessible private chat!",
       admin: "Features can only be accessed by group admin!",
@@ -78,7 +78,7 @@ export default {
       query: "No Query?",
       error: "Seems to have encountered an unexpected error, please repeat your command for a while again",
       quoted: "Reply message...",
-      wait: "Wait a minute...",
+      wait: "Tunggu yak...",
       urlInvalid: "Url Invalid",
       notFound: "Result Not Found!",
       premium: "Premium Only Features!",
