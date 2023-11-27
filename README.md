@@ -139,13 +139,13 @@ cd Clone-bot-wa
 npm i
 ```
 
-Finally, run the command below to start :
+### Finally, run the command below to start :
 
-# non pm2
+non pm2
 ```sh
 npm start
 ```
-# with pm2
+with pm2
 ```sh
 npm run dev
 ```
