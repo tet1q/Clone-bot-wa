@@ -133,8 +133,9 @@ git clone https://github.com/Ryuu-Shin/Clone-bot-wa.git
 
 Go to the project directory and install all dependencies.</br>
 ```sh
-cd hisoka-baileys
-
+cd Clone-bot-wa
+```
+```sh
 npm i
 ```
 
