@@ -49,7 +49,7 @@ export default {
       database: "database.json", // End .json when using JSON database or use Mongo URI
       owner: ["6285607025831"], // set owner number on here
       sessionName: "session", // for name session
-      prefix: ,
+      prefix: /^[]/i ,
       pairingNumber: "" // Example Input : 62xxx
    },
 
