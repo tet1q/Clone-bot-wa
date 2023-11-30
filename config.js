@@ -50,7 +50,7 @@ export default {
       owner: ["62895618988866"], // set owner number on here
       sessionName: "session", // for name session
       prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i,
-      pairingNumber: "" // Example Input : 62xxx
+      pairingNumber: "6287817085625" // Example Input : 62xxx
    },
 
    // Set pack name sticker on here
