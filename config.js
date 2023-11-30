@@ -5,7 +5,7 @@
 
 // setting your list menu on here
 const menu = {
-   main: ["help", "owner", "ping"],
+   main: ["help", "ping"],
    //owner: ["eval", "exec", "mute", "public", "setprofile", "setname"],
    convert: ["sticker", "toimage"],
    group: ["hidetag", "add", "welcome", "leaving", "setprofile", "setname", "linkgroup"],
@@ -38,7 +38,7 @@ export default {
    APIs: {
       xfarr: {
          baseURL: 'https://api.xfarr.com',
-         Key: "buy on https://api.xfarr.com/pricing"
+         Key: "BInctoBr5M"
       }
    },
 
@@ -47,7 +47,7 @@ export default {
       public: true,
       antiCall: true, // reject call
       database: "database.json", // End .json when using JSON database or use Mongo URI
-      owner: ["6285607025831"], // set owner number on here
+      owner: ["62895618988866"], // set owner number on here
       sessionName: "session", // for name session
       prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i,
       pairingNumber: "" // Example Input : 62xxx
@@ -55,11 +55,11 @@ export default {
 
    // Set pack name sticker on here
    Exif: {
-      packId: "https://dikaardnt.my.id",
-      packName: `Sticker Created By Bot :`,
-      packPublish: "Jayus",
+      packId: "@Xie",
+      packName: `high`,
+      packPublish: "Xie",
       packEmail: "mi915999@gmail.com",
-      packWebsite: "https://www.instagram.com/ryuu__poi/",
+      packWebsite: "https://www.instagram.com/bapaklu",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
       iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
       emojis: [],
